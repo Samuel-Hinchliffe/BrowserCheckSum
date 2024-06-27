@@ -1,0 +1,16 @@
+{
+	"name": "browser-checksum",
+	"version": "1.0.0",
+	"description": "A browser based solution for calculating checksums of various types.",
+	"main": "dist/bundle.js",
+	"types": "dist/index.d.ts",
+	"author": "Samuel Hinchliffe",
+	"license": "ISC",
+	"devDependencies": {
+		"ts-loader": "^9.5.1",
+		"typescript": "^5.4.5"
+	},
+	"dependencies": {
+		"crypto": "^1.0.1"
+	}
+}
