@@ -1,8 +1,8 @@
 {
 	"name": "browser-checksum",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"description": "A browser based solution for calculating checksums of various types.",
-	"main": "dist/bundle.js",
+	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"author": "Samuel Hinchliffe",
 	"license": "ISC",
