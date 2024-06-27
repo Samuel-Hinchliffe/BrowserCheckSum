@@ -1,6 +1,6 @@
 {
 	"name": "browser-checksum",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A browser based solution for calculating checksums of various types.",
 	"main": "dist/bundle.js",
 	"types": "dist/index.d.ts",
