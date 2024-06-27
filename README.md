@@ -1,6 +1,6 @@
 <div align="center">
   <a >
-    <img src="./git/logo.jpg" alt="Logo" width="100" height="100" style="border-radius: 100%">
+    <img src="[./git/logo.jpg](https://github.com/Samuel-Hinchliffe/BrowserCheckSum/blob/master/git/logo.jpg)" alt="Logo" width="100" height="100" style="border-radius: 100%">
   </a>
 
   <div align="center">
